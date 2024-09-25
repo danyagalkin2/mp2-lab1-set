@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Maestro/Source/Repos/mp2-lab1-set/aaaa/out/install/x64-Debug"
+			"value" : "C:/Users/Maestro/source/repos/mp2-lab1-set/aaaa/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
