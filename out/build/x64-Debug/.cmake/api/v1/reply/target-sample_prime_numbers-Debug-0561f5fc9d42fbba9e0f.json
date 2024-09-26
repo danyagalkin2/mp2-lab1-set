@@ -63,11 +63,11 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Maestro/source/repos/mp2-lab1-set/aaaa/include"
+					"path" : "C:/Users/s23380264/source/repos/mp2-lab1-set/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Maestro/source/repos/mp2-lab1-set/aaaa/gtest"
+					"path" : "C:/Users/s23380264/source/repos/mp2-lab1-set/gtest"
 				}
 			],
 			"language" : "CXX",

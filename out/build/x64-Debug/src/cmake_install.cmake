@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Maestro/source/repos/mp2-lab1-set/aaaa/src
+# Install script for directory: C:/Users/s23380264/source/repos/mp2-lab1-set/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Maestro/source/repos/mp2-lab1-set/aaaa/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/s23380264/Source/Repos/mp2-lab1-set/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
